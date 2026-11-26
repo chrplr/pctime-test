@@ -1,0 +1,4 @@
+# Outputs and binaries
+pctime-*.csv
+/pctime-test
+/pctime-test.exe
